@@ -1,0 +1,10 @@
+<resources>
+    //activity_main.xml
+    <string name="app_name">PM_Intent_Saludo</string>
+    <string name="textViewName">Nombre:</string>
+    <string name="editTextSaludo"></string>
+    <string name="btnSaludar">SALUDAR</string>
+
+    //activity_saludo.xml
+    <string name="textViewSaludo"></string>
+</resources>
